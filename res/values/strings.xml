@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, XMPPChatDemoActivity!</string>
+    <string name="action_settings">Logout</string>
+    <string name="app_name">XMPP Chat</string>
+    <string name="send_button">Send</string>
+    <string name="edit_text">Type to compose</string>
+    <string name="chat_with">Chat With</string>
+    <string name="add_recipient">Add Recipient</string>
+    
+    <string name="login_username_label">Username:</string>
+	<string name="login_password_label">Password:</string>
+	<string name="login_username_label_hint">Enter Gmail Username</string>
+	<string name="login_password_label_hint">Enter Password</string>
+	<string name="login_button">Login</string>
+    
+    <string-array name="tag_array">
+        <item>All Messages</item>
+        <item>#one</item>
+        <item>#two</item>
+        <item>#three</item>
+        <item>#four</item>
+        <item>#five</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    
+</resources>
